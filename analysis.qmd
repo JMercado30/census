@@ -1,0 +1,6 @@
+---
+title: "Analyzing US Census Data"
+author: "Javier Mercado"
+execute:
+  echo: false
+---
